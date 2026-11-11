@@ -1,0 +1,15 @@
+table,records,missing_columns,duplicate_keys,missing_values,invalid_categories,invalid_numeric_values,invalid_dates,future_join_dates,result,details
+members,50000,None,0,92112,0,0,0,0,PASS,
+employers,30,None,0,0,0,0,0,0,PASS,
+branches,20,None,0,0,0,0,0,0,PASS,
+dues_transactions,1100000,None,0,1209964,0,0,0,0,PASS,
+cases,5000,None,0,7578,10000,0,0,0,REVIEW,
+engagement_events,10000,None,0,0,0,0,0,0,PASS,
+communications,0,Not checked,0,0,0,0,0,0,FILE ERROR,File not found: communications.csv
+audit_log,10000,None,0,0,0,0,0,0,PASS,
+users,82,None,0,9,0,0,0,0,PASS,
+regions,5,None,0,0,0,0,0,0,PASS,
+documents,3000,None,0,2575,3000,0,0,0,REVIEW,
+document_versions,4228,None,0,0,0,0,0,0,PASS,
+routing_rules,24,None,0,0,0,0,0,0,PASS,
+approval_steps,9000,None,0,0,0,0,0,0,PASS,

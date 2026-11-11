@@ -1,0 +1,15 @@
+table,original_rows,cleaned_rows,rows_removed,missing_values_before,missing_values_after,duplicate_rows_found,notes
+approval_steps,9000,9000,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: document_id: 6000 duplicates
+audit_log,10000,10000,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: user_id: 9918 duplicates
+branches,20,20,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: region_id: 15 duplicates
+cases,5000,5000,0,7578,7578,0,Cleaning completed. Duplicate identifiers require investigation: member_id: 234 duplicates; employer_id: 4970 duplicates
+communication,10000,10000,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: member_id: 949 duplicates
+document_versions,4228,4228,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: document_id: 1228 duplicates
+documents,3000,3000,0,2575,2575,0,Cleaning completed.
+dues_transactions,1100000,1100000,0,1209964,1209964,0,Cleaning completed. Duplicate identifiers require investigation: member_id: 1050000 duplicates
+employers,30,30,0,0,0,0,Cleaning completed.
+engagement_events,10000,10000,0,0,0,0,Cleaning completed. Duplicate identifiers require investigation: member_id: 899 duplicates; branch_id: 9980 duplicates
+members,50000,50000,0,92112,92112,0,Cleaning completed. Duplicate identifiers require investigation: employer_id: 49970 duplicates; branch_id: 49980 duplicates
+regions,5,5,0,0,0,0,Cleaning completed.
+routing_rules,24,24,0,0,0,0,Cleaning completed.
+users,82,82,0,9,9,0,Cleaning completed. Duplicate identifiers require investigation: branch_id: 55 duplicates; region_id: 75 duplicates

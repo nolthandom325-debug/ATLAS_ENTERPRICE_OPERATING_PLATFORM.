@@ -1,0 +1,25 @@
+document_type,step_number,level,approver_role,max_days
+membership form,1,branch,steward,3
+membership form,2,region,regional officer,5
+membership form,3,province,provincial officer,5
+membership form,4,national,national officer,7
+case file,1,branch,steward,3
+case file,2,region,regional officer,5
+case file,3,province,provincial officer,5
+case file,4,national,national officer,7
+dues dispute,1,branch,steward,3
+dues dispute,2,region,regional officer,5
+dues dispute,3,province,provincial officer,5
+dues dispute,4,national,national officer,7
+resolution,1,branch,steward,3
+resolution,2,region,regional officer,5
+resolution,3,province,provincial officer,5
+resolution,4,national,national officer,7
+report,1,branch,steward,3
+report,2,region,regional officer,5
+report,3,province,provincial officer,5
+report,4,national,national officer,7
+request,1,branch,steward,3
+request,2,region,regional officer,5
+request,3,province,provincial officer,5
+request,4,national,national officer,7

@@ -1,0 +1,21 @@
+branch_id,branch_name,region_id,province,steward_count
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,Frances Baard Branch 01,bdd640fb-0667-4ad1-9c80-317fa3b1799d,northern cape,1
+a65ed389-b74d-4fb1-b2e7-06298fadc1a6,Frances Baard Branch 02,bdd640fb-0667-4ad1-9c80-317fa3b1799d,northern cape,5
+96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,Frances Baard Branch 03,bdd640fb-0667-4ad1-9c80-317fa3b1799d,northern cape,3
+c241330b-01a9-471f-9e8a-774bcf36d58b,Frances Baard Branch 04,bdd640fb-0667-4ad1-9c80-317fa3b1799d,northern cape,2
+47229389-571a-4876-ac30-7511b2b9437a,John Taolo Gaetsewe Branch 01,23b8c1e9-3924-46de-beb1-3b9046685257,northern cape,2
+562b0f79-c374-49ee-b50b-ea63371ecd7b,John Taolo Gaetsewe Branch 02,23b8c1e9-3924-46de-beb1-3b9046685257,northern cape,1
+5be6128e-18c2-4797-a142-ea7d17be3111,John Taolo Gaetsewe Branch 03,23b8c1e9-3924-46de-beb1-3b9046685257,northern cape,3
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,John Taolo Gaetsewe Branch 04,23b8c1e9-3924-46de-beb1-3b9046685257,northern cape,4
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,Namakwa Branch 01,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,northern cape,4
+d453dd32-4b0d-4b41-8d52-88f1142c3fe8,Namakwa Branch 02,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,northern cape,5
+93cd59bf-5c94-4cf0-9c98-d2c1e2acf72f,Namakwa Branch 03,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,northern cape,2
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,Namakwa Branch 04,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,northern cape,2
+146d3f31-fc37-4a4c-8a15-544dc5e7ce8a,Pixley ka Seme Branch 01,972a8469-1641-4f82-8b9d-2434e465e150,northern cape,2
+47294739-614f-43d7-99db-3ad0ddd1dfb2,Pixley ka Seme Branch 02,972a8469-1641-4f82-8b9d-2434e465e150,northern cape,4
+29a3b2e9-5d65-4441-9588-42dea2bc372f,Pixley ka Seme Branch 03,972a8469-1641-4f82-8b9d-2434e465e150,northern cape,3
+4458a885-ab90-49a4-b5a2-40ae5af30553,Pixley ka Seme Branch 04,972a8469-1641-4f82-8b9d-2434e465e150,northern cape,1
+88bd6407-2bcf-4e01-a28d-efe39bf00273,ZF Mgcawu Branch 01,17fc695a-07a0-4a6e-8822-e8f36c031199,northern cape,2
+451b4cf3-6123-4df7-b656-af7229d4beef,ZF Mgcawu Branch 02,17fc695a-07a0-4a6e-8822-e8f36c031199,northern cape,5
+d7c524a5-5304-417f-af42-e12f3838b326,ZF Mgcawu Branch 03,17fc695a-07a0-4a6e-8822-e8f36c031199,northern cape,1
+ce177b4e-0837-48a3-9261-a7ab3aa2e4f9,ZF Mgcawu Branch 04,17fc695a-07a0-4a6e-8822-e8f36c031199,northern cape,3
